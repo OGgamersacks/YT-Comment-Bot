@@ -135,11 +135,11 @@ def comment_page(driver, urls, comment):
 def random_comment():
     # You can edit these lines if you want to add more comments===================================
     comments = [
-        'YES',
-        'oh good this is',
-        'and',
-        '_good job_'
-        'not a bot'
+        'ATU IS BETTER',
+        'TELL PEOPLE TO JOIN THE ATU',
+        'MAKE A VIDEO ON THE ATU',
+        '_THE ATU IS WATCHING_'
+        'JOIN THE ATU'
 
     ]
 # =============================================================================================
